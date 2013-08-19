@@ -1,0 +1,2 @@
+# Ignores vendor/ folder used by Composer
+vendor/
